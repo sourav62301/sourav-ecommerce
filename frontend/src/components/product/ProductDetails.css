@@ -1,0 +1,8 @@
+.productDetails{
+    display: flex;
+    width: 100vw;
+    max-width: 100%;
+    padding: 6vmax;
+    box-sizing: border-box;
+    background-color: rgb(233, 232, 232);
+}
